@@ -2,13 +2,13 @@
 
 ## Install
 
-npm install . 
-npm install -g typescript@2.0.6 . 
-npm install -g typings . 
-typings install . 
+npm install </br> 
+npm install -g typescript@2.0.6 </br>
+npm install -g typings </br> 
+typings install </br>
 
 ## Usage
 
-tsc . 
-npm start . 
+tsc </br>
+npm start </br>
 
