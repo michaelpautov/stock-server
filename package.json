@@ -1,0 +1,21 @@
+{
+  "name": "stock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/start.js"
+  },
+  "keywords": [],
+  "author": "Michael Pautov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "express": "4.9.8",
+    "jsonwebtoken": "7.3.0"
+  },
+  "devDependencies": {
+    "ts-loader": "3.1.1",
+    "typescript": "2.6.1"
+  }
+}

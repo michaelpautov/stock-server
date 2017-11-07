@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+    "module": "commonjs",
+    "outDir": "./dist/",
+		"removeComments": true,
+    "noImplicitAny": false,
+    "target": "es5",
+    "moduleResolution": "node"
+  },
+	"include": [
+		"src/**/*"
+	],
+	"exclude": [
+		"node_modules/",
+		"typings/browser",
+		"typings/browser.d.ts"
+	]
+}
